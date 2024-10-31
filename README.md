@@ -1,5 +1,6 @@
 # Transcritor-de-Audio
 Aplicativo transcritor de áudio que utiliza a biblioteca streamlit e a biblioteca assemblyai do Python
+
 import assemblyai as aai
 import streamlit as st
 
